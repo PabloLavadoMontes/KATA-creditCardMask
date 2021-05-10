@@ -1,0 +1,17 @@
+{
+  "name": "creditcardmask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "PLM",
+  "license": "ISC"
+}
